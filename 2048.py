@@ -277,4 +277,5 @@ def getRotations(k):
         return 3
 
 # calling the main
+print("Hello!")
 main()
